@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, along with the original source."
+type: dataset
+title: "Volcanoes Near Cities"
+version: "1.0"
+date-released: 2026-10-30
+license: CC-BY-4.0
+url: "https://github.com/liveatlasearth/volcanoes-near-cities"
+repository-code: "https://github.com/liveatlasearth/volcanoes-near-cities"
+abstract: "Which Volcanoes Have the Most People Living Around Them. 1,214 Holocene volcanoes with type, last eruption, eruption counts and the population of cities within 30 and 100 km. CSV, CC BY 4.0. Smithsonian GVP data, by Live Atlas"
+keywords:
+  - volcanoes
+  - dataset
+  - smithsonian
+  - natural-disasters
+  - population
+  - csv
+  - geospatial
+  - risk
+authors:
+  - given-names: Nathan
+    family-names: Ridge
+    affiliation: Live Atlas
+  - name: Live Atlas
+    website: "https://www.liveatlas.earth/"
